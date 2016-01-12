@@ -1,0 +1,12 @@
+{
+  "groups": [{
+    "name": "fortune",
+    "type": "com.perficient.domain.FortuneProperties",
+    "sourceType": "com.perficient.domain.FortuneProperties"
+  }],
+  "properties": [{
+    "name": "fortune.fallback-fortune",
+    "type": "java.lang.String",
+    "sourceType": "com.perficient.domain.FortuneProperties"
+  }]
+}

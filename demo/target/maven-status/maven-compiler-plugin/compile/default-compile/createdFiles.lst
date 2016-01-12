@@ -1,0 +1,7 @@
+com\perficient\DemoModel.class
+com\perficient\DemoControllerFallBack.class
+com\perficient\DemoController.class
+com\perficient\DemoApplication.class
+com\perficient\domain\Fortune.class
+META-INF\spring-configuration-metadata.json
+com\perficient\domain\FortuneProperties.class

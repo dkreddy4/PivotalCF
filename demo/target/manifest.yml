@@ -1,0 +1,11 @@
+---
+applications:
+- name: demo
+  memory: 512M
+  host: demogdr123
+  path: demo-0.0.1-SNAPSHOT.jar
+  domain: cfapps.io
+  command: bundle exec rake VERBOSE=true
+  buildpack: java_buildpack
+  env:
+    SPRING_PROFILES_ACTIVE : dev
